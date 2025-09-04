@@ -1,0 +1,9 @@
+#pragma once
+#include <glad/glad.h>
+#include "simplerenderer.h"
+#include "simpleapp.h"
+#include "../shader/shader_utils.h"
+#include "../texture/texture_utils.h"
+#include "../mesh/mesh_utils.h"
+#include "../lighting/light_utils.h"
+#include "../fbo/fbo_utils.h"
